@@ -1,6 +1,6 @@
-# Twitter Clone
+# Twitter
 
-Welcome to Twitter Clone! This is a full-stack web application where users can create, read, update, delete, and search tweets. The website includes user authentication features such as login, signup, and profile updates.
+Welcome to Twitter Clone! This is a full-stack web application where users can create, read, update, delete, and search tweets. The website includes user authentication features such as login, and signup.
 
 ## Features
 
